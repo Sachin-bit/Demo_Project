@@ -6,3 +6,5 @@ vibrant
 type option
 dark mode
 video calls
+
+Payment Method
